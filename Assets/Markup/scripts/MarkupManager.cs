@@ -116,7 +116,7 @@ public class MarkupManager : MonoBehaviour {
         MarkupSettings.Instance.PenWidth *= .75f;
         UpdateDrawer();
     }
-    void ThikMode()
+    void ThickPen()
     {
         MarkupSettings.Instance.PenWidth *= 1.25f;
         UpdateDrawer();
