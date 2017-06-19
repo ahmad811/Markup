@@ -1,0 +1,7 @@
+bin/
+Temp/
+Library/*
+obj/
+**/.log
+App/
+UWP/*
